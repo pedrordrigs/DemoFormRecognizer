@@ -10,7 +10,7 @@ Este projeto é uma aplicação ASP.NET Core destinada a demonstrar as capacidad
 
 #### .NET
 
-- SDK do .NET
+- SDK do .NET 6.0
 
 #### Python
 
