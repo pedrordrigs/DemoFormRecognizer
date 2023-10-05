@@ -2,7 +2,7 @@
 
 ## Resumo
 
-Este projeto é uma aplicação ASP.NET Core destinada a demonstrar as capacidades do Azure Form Recognizer. O serviço de Form Recognizer é utilizado para analisar formulários e documentos diversos. Após a análise, os resultados são processados e exportados para formatos Excel e XML. A aplicação também fornece uma API RESTful, cuja documentação é gerada pelo Swagger, facilitando o teste e a integração.
+Este projeto é uma aplicação ASP.NET Core destinada a demonstrar as capacidades do Azure Form Recognizer. O serviço de Form Recognizer é utilizado para analisar formulários e documentos diversos. Após a análise, os resultados são processados e exportados em JSON. A aplicação também fornece uma API RESTful, cuja documentação é gerada pelo Swagger, facilitando o teste e a integração.
 
 ## Instalação
 
