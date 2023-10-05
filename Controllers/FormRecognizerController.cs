@@ -21,13 +21,13 @@ public class FormRecognizerController : ControllerBase
     {
         if (formFile == null || formFile.Length == 0)
         {
-            return BadRequest("Invalid file.");
+            return BadRequest("Arquivo invalido.");
         }
 
         using var stream = formFile.OpenReadStream();
         var formResult = await _formRecognizerService.AnalyzeFormAsync(stream);
         _excelService.GenerateExcel(formResult);
-        return Ok("Excel generated successfully.");
+        return Ok("Excel e XML gerados com sucesso.");
     }
 
     [HttpPost("unescape-json")]
@@ -35,7 +35,7 @@ public class FormRecognizerController : ControllerBase
     {
         if (formFile == null || formFile.Length == 0)
         {
-            return BadRequest("Invalid file.");
+            return BadRequest("Arquivo invalido.");
         }
 
         using var stream = formFile.OpenReadStream();
@@ -44,12 +44,12 @@ public class FormRecognizerController : ControllerBase
         // Desescapar o JSON
         var unescapedJson = HttpUtility.HtmlDecode(escapedJson);
 
-        // Formatando o JSON para torná-lo legível
+        // Formatando o JSON para tornÃ¡-lo legÃ­vel
         JToken jToken = JToken.Parse(unescapedJson);
         string formattedJson = jToken.ToString(Newtonsoft.Json.Formatting.Indented);
 
-        // Gerar um nome de arquivo único baseado em timestamp
-        string uniqueFileName = $"local_file_{DateTime.Now.Ticks}.json";
+        // Gerar um nome de arquivo Ãºnico baseado em timestamp
+        string uniqueFileName = $"response_{DateTime.Now.Ticks}.json";
 
         // Salvar localmente como arquivo na pasta Outputs
         System.IO.File.WriteAllText($"Outputs/{uniqueFileName}", formattedJson);
