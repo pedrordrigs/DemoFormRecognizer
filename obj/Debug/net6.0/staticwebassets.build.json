@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tCRrDzBpolMHHWVhWo78s57zFJykYA7vsY+pvx0pPOY=",
+  "Source": "DemoFormRecognizer",
+  "BasePath": "_content/DemoFormRecognizer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

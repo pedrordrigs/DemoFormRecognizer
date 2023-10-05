@@ -1,0 +1,1681 @@
+{
+    "PageNumber": 1,
+    "TextAngle": 0.0,
+    "Width": 8.5,
+    "Height": 11.0,
+    "Unit": 1,
+    "Lines": [
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Example"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "table"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Example table"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "This"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "is"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "an"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "example"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "of"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "a"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "data"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "table."
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "This is an example of a data table."
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Disability"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Disability"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Category"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Category"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Participants"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Participants"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Ballots"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Ballots"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Ballots"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Ballots"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Results"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Results"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Completed"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Completed"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Incomplete/"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Incomplete/"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Accuracy"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Accuracy"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Time"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "to"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Time to"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Terminated"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Terminated"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "complete"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "complete"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Blind"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Blind"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "5"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "5"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "1"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "4"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "4"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "34.5%,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=1"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "34.5%, n=1"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1199"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "sec,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=1"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "1199 sec, n=1"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Low"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Vision"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Low Vision"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "5"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "5"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "2"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "2"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "3"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "3"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "98.3%"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=2"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "98.3% n=2"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1716"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "sec,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=3"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "1716 sec, n=3"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "(97.7%,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=3)"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "(97.7%, n=3)"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "(1934"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "sec,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=2)"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "(1934 sec, n=2)"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Dexterity"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Dexterity"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "5"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "5"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "4"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "4"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "1"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "98.3%,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=4"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "98.3%, n=4"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1672.1"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "sec,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=4"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "1672.1 sec, n=4"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Mobility"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "Mobility"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "3"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "3"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "3"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "3"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "0"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "0"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "95.4%,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=3"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "95.4%, n=3"
+        },
+        {
+            "Words": [
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1416"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "sec,"
+                },
+                {
+                    "Confidence": 1.0,
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "n=3"
+                }
+            ],
+            "Appearance": {
+                "StyleName": {},
+                "StyleConfidence": 1.0
+            },
+            "BoundingBox": {},
+            "PageNumber": 1,
+            "Text": "1416 sec, n=3"
+        }
+    ],
+    "Tables": [
+        {
+            "PageNumber": 1,
+            "Cells": [
+                {
+                    "ColumnIndex": 0,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": true,
+                    "RowIndex": 0,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Disability"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Category"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Disability Category"
+                },
+                {
+                    "ColumnIndex": 1,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": true,
+                    "RowIndex": 0,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Participants"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Participants"
+                },
+                {
+                    "ColumnIndex": 2,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": true,
+                    "RowIndex": 0,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Ballots"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Completed"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Ballots Completed"
+                },
+                {
+                    "ColumnIndex": 3,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": true,
+                    "RowIndex": 0,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Ballots"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Incomplete/"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Terminated"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Ballots Incomplete/ Terminated"
+                },
+                {
+                    "ColumnIndex": 4,
+                    "ColumnSpan": 2,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": true,
+                    "RowIndex": 0,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Results"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Results"
+                },
+                {
+                    "ColumnIndex": 4,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": true,
+                    "RowIndex": 1,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Accuracy"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Accuracy"
+                },
+                {
+                    "ColumnIndex": 5,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": true,
+                    "RowIndex": 1,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Time"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "to"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "complete"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Time to complete"
+                },
+                {
+                    "ColumnIndex": 0,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 2,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Blind"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Blind"
+                },
+                {
+                    "ColumnIndex": 1,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 2,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "5"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "5"
+                },
+                {
+                    "ColumnIndex": 2,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 2,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "1"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1"
+                },
+                {
+                    "ColumnIndex": 3,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 2,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "4"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "4"
+                },
+                {
+                    "ColumnIndex": 4,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 2,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "34.5%,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=1"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "34.5%, n=1"
+                },
+                {
+                    "ColumnIndex": 5,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 2,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "1199"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "sec,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=1"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1199 sec, n=1"
+                },
+                {
+                    "ColumnIndex": 0,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 3,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Low"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Vision"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Low Vision"
+                },
+                {
+                    "ColumnIndex": 1,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 3,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "5"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "5"
+                },
+                {
+                    "ColumnIndex": 2,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 3,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "2"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "2"
+                },
+                {
+                    "ColumnIndex": 3,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 3,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "3"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "3"
+                },
+                {
+                    "ColumnIndex": 4,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 3,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "98.3%"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=2"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "98.3% n=2"
+                },
+                {
+                    "ColumnIndex": 5,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 3,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "1716"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "sec,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=3"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1716 sec, n=3"
+                },
+                {
+                    "ColumnIndex": 1,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 4,
+                    "RowSpan": 1,
+                    "FieldElements": [],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": ""
+                },
+                {
+                    "ColumnIndex": 2,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 4,
+                    "RowSpan": 1,
+                    "FieldElements": [],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": ""
+                },
+                {
+                    "ColumnIndex": 3,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 4,
+                    "RowSpan": 1,
+                    "FieldElements": [],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": ""
+                },
+                {
+                    "ColumnIndex": 4,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 4,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "(97.7%,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=3)"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "(97.7%, n=3)"
+                },
+                {
+                    "ColumnIndex": 5,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 4,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "(1934"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "sec,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=2)"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "(1934 sec, n=2)"
+                },
+                {
+                    "ColumnIndex": 0,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 5,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Dexterity"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Dexterity"
+                },
+                {
+                    "ColumnIndex": 1,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 5,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "5"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "5"
+                },
+                {
+                    "ColumnIndex": 2,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 5,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "4"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "4"
+                },
+                {
+                    "ColumnIndex": 3,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 5,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "1"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1"
+                },
+                {
+                    "ColumnIndex": 4,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 5,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "98.3%,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=4"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "98.3%, n=4"
+                },
+                {
+                    "ColumnIndex": 5,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 5,
+                    "RowSpan": 1,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "1672.1"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "sec,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=4"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1672.1 sec, n=4"
+                },
+                {
+                    "ColumnIndex": 0,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 6,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "Mobility"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "Mobility"
+                },
+                {
+                    "ColumnIndex": 1,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 6,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "3"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "3"
+                },
+                {
+                    "ColumnIndex": 2,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 6,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "3"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "3"
+                },
+                {
+                    "ColumnIndex": 3,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 6,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "0"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "0"
+                },
+                {
+                    "ColumnIndex": 4,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 6,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "95.4%,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=3"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "95.4%, n=3"
+                },
+                {
+                    "ColumnIndex": 5,
+                    "ColumnSpan": 1,
+                    "Confidence": 1.0,
+                    "IsFooter": false,
+                    "IsHeader": false,
+                    "RowIndex": 6,
+                    "RowSpan": 2,
+                    "FieldElements": [
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "1416"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "sec,"
+                        },
+                        {
+                            "Confidence": 1.0,
+                            "BoundingBox": {},
+                            "PageNumber": 1,
+                            "Text": "n=3"
+                        }
+                    ],
+                    "BoundingBox": {},
+                    "PageNumber": 1,
+                    "Text": "1416 sec, n=3"
+                }
+            ],
+            "ColumnCount": 6,
+            "RowCount": 8,
+            "BoundingBox": {}
+        }
+    ],
+    "SelectionMarks": []
+}

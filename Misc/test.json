@@ -1,0 +1,1522 @@
+{
+  "PageNumber": 1,
+  "TextAngle": 0,
+  "Width": 8.2639,
+  "Height": 11.6944,
+  "Unit": 1,
+  "Lines": [
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "LOCAIS"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "LOCAIS"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Belém"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Belém"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "1"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 1"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Belo"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Horizonte"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Belo Horizonte"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "2"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "(2º"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "subsolo)"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 2 (2º subsolo)"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Brasília"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "(regional)"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Brasília (regional)"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Curitiba"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Curitiba"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "2"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "(nº"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "406)"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 2 (nº 406)"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Florianópolis"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Florianópolis"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Fortaleza"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Fortaleza"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "1"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 1"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Porto"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Alegre"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Porto Alegre"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "2"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 2"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Recife"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Recife"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "1"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 1"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Rio"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Janeiro"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "(Horto)"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Rio de Janeiro (Horto)"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Auditório"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Auditório"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Salvador"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Salvador"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "2"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "(1º"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "andar)"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 2 (1º andar)"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "São"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Paulo"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "(Luz)"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "São Paulo (Luz)"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "2"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 2"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "São"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Paulo"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "(Socorro)"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "São Paulo (Socorro)"
+    },
+    {
+      "Words": [
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "de"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "videoconferência"
+        },
+        {
+          "Confidence": 1,
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "1B2"
+        }
+      ],
+      "Appearance": {
+        "StyleName": {},
+        "StyleConfidence": 1
+      },
+      "BoundingBox": {},
+      "PageNumber": 1,
+      "Text": "Sala de videoconferência 1B2"
+    }
+  ],
+  "Tables": [
+    {
+      "PageNumber": 1,
+      "Cells": [
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": true,
+          "RowIndex": 0,
+          "RowSpan": 1,
+          "FieldElements": [],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": ""
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": true,
+          "RowIndex": 0,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "LOCAIS"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "LOCAIS"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 1,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Belém"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Belém"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 1,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "1"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 1"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 2,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Belo"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Horizonte"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Belo Horizonte"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 2,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "2"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "(2º"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "subsolo)"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 2 (2º subsolo)"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 3,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Brasília"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "(regional)"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Brasília (regional)"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 3,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 4,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Curitiba"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Curitiba"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 4,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "2"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "(nº"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "406)"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 2 (nº 406)"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 5,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Florianópolis"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Florianópolis"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 5,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 6,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Fortaleza"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Fortaleza"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 6,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "1"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 1"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 7,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Porto"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Alegre"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Porto Alegre"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 7,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "2"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 2"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 8,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Recife"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Recife"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 8,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "1"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 1"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 9,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Rio"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Janeiro"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "(Horto)"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Rio de Janeiro (Horto)"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 9,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Auditório"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Auditório"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 10,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Salvador"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Salvador"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 10,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "2"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "(1º"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "andar)"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 2 (1º andar)"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 11,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "São"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Paulo"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "(Luz)"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "São Paulo (Luz)"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 11,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "2"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 2"
+        },
+        {
+          "ColumnIndex": 0,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 12,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "São"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Paulo"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "(Socorro)"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "São Paulo (Socorro)"
+        },
+        {
+          "ColumnIndex": 1,
+          "ColumnSpan": 1,
+          "Confidence": 1,
+          "IsFooter": false,
+          "IsHeader": false,
+          "RowIndex": 12,
+          "RowSpan": 1,
+          "FieldElements": [
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "Sala"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "de"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "videoconferência"
+            },
+            {
+              "Confidence": 1,
+              "BoundingBox": {},
+              "PageNumber": 1,
+              "Text": "1B2"
+            }
+          ],
+          "BoundingBox": {},
+          "PageNumber": 1,
+          "Text": "Sala de videoconferência 1B2"
+        }
+      ],
+      "ColumnCount": 2,
+      "RowCount": 13,
+      "BoundingBox": {}
+    }
+  ],
+  "SelectionMarks": []
+}
