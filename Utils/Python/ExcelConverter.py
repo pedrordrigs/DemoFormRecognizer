@@ -40,8 +40,8 @@ def generate_excel_and_xml_from_custom_json(custom_json):
     
     df = pd.DataFrame(excel_data).sort_index(axis=1)
     timestamp = str(int(time.time()))
-    excel_path = f'Outputs/dados_customizados_corrigidos_{timestamp}.xlsx'
-    xml_path = f'Outputs/dados_customizados_corrigidos_{timestamp}.xml'
+    excel_path = f'Outputs/tabela_lida_{timestamp}.xlsx'
+    xml_path = f'Outputs/xml_tabela_lida_{timestamp}.xml'
     
     df.to_excel(excel_path, index=False)
     ET.ElementTree(root).write(xml_path)
